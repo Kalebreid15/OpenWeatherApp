@@ -1,0 +1,17 @@
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.csproj.AssemblyReference.cache
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.AssemblyInfoInputs.cache
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.AssemblyInfo.cs
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\bin\Debug\net8.0\OpenWeatherApp.exe
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\bin\Debug\net8.0\OpenWeatherApp.deps.json
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\bin\Debug\net8.0\OpenWeatherApp.runtimeconfig.json
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\bin\Debug\net8.0\OpenWeatherApp.dll
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\bin\Debug\net8.0\OpenWeatherApp.pdb
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeat.51843897.Up2Date
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.dll
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\refint\OpenWeatherApp.dll
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.pdb
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\OpenWeatherApp.genruntimeconfig.cache
+C:\Users\kaleb\source\repos\OpenWeatherApp\OpenWeatherApp\obj\Debug\net8.0\ref\OpenWeatherApp.dll

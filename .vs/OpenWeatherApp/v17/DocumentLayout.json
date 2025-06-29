@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|c:\\users\\kaleb\\source\\repos\\openweatherapp\\openweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|solutionrelative:openweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|c:\\users\\kaleb\\source\\repos\\openweatherapp\\openweatherapp\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|solutionrelative:openweatherapp\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|c:\\users\\kaleb\\source\\repos\\openweatherapp\\openweatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|solutionrelative:openweatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|c:\\users\\kaleb\\source\\repos\\openweatherapp\\openweatherapp\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ABB117-87F1-47A8-ACBE-EC811E72A7EF}|OpenWeatherApp\\OpenWeatherApp.csproj|solutionrelative:openweatherapp\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\WeatherDisplay.cs",
+              "RelativeDocumentMoniker": "OpenWeatherApp\\WeatherDisplay.cs",
+              "ToolTip": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\WeatherDisplay.cs",
+              "RelativeToolTip": "OpenWeatherApp\\WeatherDisplay.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:30:52.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\WeatherService.cs",
+              "RelativeDocumentMoniker": "OpenWeatherApp\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\WeatherService.cs",
+              "RelativeToolTip": "OpenWeatherApp\\WeatherService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:30:40.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\WeatherData.cs",
+              "RelativeDocumentMoniker": "OpenWeatherApp\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\WeatherData.cs",
+              "RelativeToolTip": "OpenWeatherApp\\WeatherData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:30:25.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "OpenWeatherApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kaleb\\source\\repos\\OpenWeatherApp\\OpenWeatherApp\\Program.cs",
+              "RelativeToolTip": "OpenWeatherApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:29:17.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
